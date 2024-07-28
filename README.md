@@ -1,5 +1,8 @@
 ### Encrypt-Decrypt-system ### 
 
+**Supported Files**
+- .csv .JSON .txt .exe And more but i didnt test more
+
 A encyption system for ur files pretty easy to use
 
 
