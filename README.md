@@ -1,7 +1,7 @@
 ### Encrypt-Decrypt-system ### 
 
 **Supported Files**
-- .csv .JSON .txt .exe And more but i didnt test more
+- .csv .JSON .txt .exe . bat And more but i didnt test more it also supports screenshots like JEPG png stuff like that
 - video formats like mp4 and mkv doesnt work yet (will work on it 
 
 A encyption system for ur files pretty easy to use
